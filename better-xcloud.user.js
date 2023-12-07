@@ -16,7 +16,7 @@
 const SCRIPT_VERSION = '2.0.4';
 const SCRIPT_HOME = 'https://github.com/redphx/better-xcloud';
 
-const ENABLE_MKB = false;
+const ENABLE_MKB = true;
 const ENABLE_XCLOUD_LOGGER = false;
 
 console.log(`[Better xCloud] readyState: ${document.readyState}`);
